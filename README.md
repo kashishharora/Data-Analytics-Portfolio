@@ -95,7 +95,7 @@ This repository showcases my data analytics projects, practical skills, and lear
 ## Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/kashisharora12
-- **GitHub:** [Add Your GitHub Profile URL](YOUR_GITHUB_URL)
+- **GitHub:** https://github.com/kashishharora
 - **Email:** arorakashish224@gmail.com
 
 ---
